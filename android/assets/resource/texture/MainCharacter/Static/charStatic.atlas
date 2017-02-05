@@ -1,0 +1,12 @@
+
+charStatic.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+static0
+  rotate: false
+  xy: 1, 1
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1

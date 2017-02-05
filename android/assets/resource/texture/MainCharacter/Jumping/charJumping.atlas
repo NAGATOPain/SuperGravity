@@ -1,0 +1,33 @@
+
+charJumping.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jump3
+  rotate: false
+  xy: 1, 1
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+jump0
+  rotate: false
+  xy: 73, 1
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+jump1
+  rotate: false
+  xy: 145, 1
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+jump2
+  rotate: false
+  xy: 202, 6
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1

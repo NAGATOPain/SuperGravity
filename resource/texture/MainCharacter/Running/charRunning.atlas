@@ -1,0 +1,47 @@
+
+charRunning.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+run1
+  rotate: false
+  xy: 1, 155
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+run5
+  rotate: false
+  xy: 1, 78
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+run4
+  rotate: false
+  xy: 63, 155
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+run3
+  rotate: false
+  xy: 1, 1
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+run0
+  rotate: false
+  xy: 63, 78
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+run2
+  rotate: false
+  xy: 58, 1
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
